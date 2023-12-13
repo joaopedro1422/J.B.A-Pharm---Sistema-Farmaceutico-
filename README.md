@@ -1,4 +1,9 @@
 # J.B.A-Pharm---Sistema-Pharmaceutico-
+
+<div>
+  <img src="https://github.com/joaopedro1422/SF---Sistema-de-nutri-o/assets/113139444/f54dde9f-7bdd-4e0e-b35d-98c890a21210.png"     width="150px" />
+</div>      
+
 Um sistema que utiliza a Linguagem C, com a proposta de ser um sistema de admnistração de uma Farmácia.
 Nele é possível:
     
